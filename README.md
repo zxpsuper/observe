@@ -4,6 +4,14 @@ a observe for all type variables
 
 本项目基于 `dntzhang/oba` 改造而来，原项目地址：[https://github.com/dntzhang/oba](https://github.com/dntzhang/oba)
 
+## 安装
+
+```js
+// npm install suporka-observe
+
+import observe from 'suporka-observe'
+```
+
 ## 对象字面量
 
 ```js
