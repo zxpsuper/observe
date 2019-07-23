@@ -1,6 +1,6 @@
 {
-  "name": "observe",
-  "version": "0.0.0",
+  "name": "suporka-observe",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/observe.umd.js",
